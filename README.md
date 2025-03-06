@@ -1,4 +1,5 @@
 ## Louis Tse [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-tse-wt/)
+Full-stack developer inspired by experiences at Huawei and MSI. Started from building simple Python applications to streamline data collection at work. Currently a bootcamp student in London, working on personal projects to sharpen my skills."
 
 ## Tech Stack
 #### Languages:  
