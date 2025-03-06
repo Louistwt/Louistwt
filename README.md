@@ -1,5 +1,5 @@
 ## About Me
-- Full-stack developer inspired by experiences at work.
+- Full-Stack Developer inspired by experiences at work.
 - Started from building simple Python applications to streamline data collection at work.
 - Working on Personal Projects to sharpen my skills.
 Feel free to contact me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-tse-wt/)
