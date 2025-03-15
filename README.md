@@ -47,4 +47,4 @@ Feel free to contact me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-
 |----------------------------------------------------------|---------------------------|----------------------------------|
 |[Chat_App](https://github.com/Louistwt/Chat_App_practice) |Real-time chat application |Node.JS, Express, React, Mongoose, DaisyUI, TaiwindCSS |
 |[E-commerce] |E-commerce site with dashboard and Stripe payment |Node.JS, Express, React, Mongoose, Redis, Stripe |
-|[OnlyFans U18] |Subscriber-only site with Stripe payment |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde | 
+|[OnlyKids] |Subscriber-only site with Stripe payment |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde | 
