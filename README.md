@@ -3,6 +3,22 @@
 - Working on Personal Projects to sharpen my skills.
 Feel free to contact me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/louis-tse-wt/)
 
+---
+
+### Personal Projects
+| Personal Projects | Description | Tech Stack |
+|---------------------------------------------------------------|---------------------------|-----------------------------------------------------|
+|[Chat_App](https://fullstack-chat-app-1nw2.onrender.com/login) |Real-time chat application |Node.JS, Express, React, Mongoose, Zustand, Socket.io, DaisyUI|
+|[E-commerce](https://github.com/Louistwt/E-commerce_practice) |E-commerce site with Stripe payment, coupon system and refresh/access token |Node.JS, Express, React, Mongoose, Zustand, Redis, Stripe |
+|[OnlyRants](https://github.com/Louistwt/OnlyRant) |For homeowners to express their dissatisfaction with construction companies |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde |
+
+---
+
+### Makers Group Projects
+| Makers Projects | Contribution | Tech Stack |
+|-------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------|
+|[Galaxy_Gym](https://github.com/aysinakpinar/team_project_galaxy) |Backend structure, app.py, test configuration, initial database layout and Threads like forum feature |Python, Flask, SQLAlchemy, WTForms, Bootstrap |
+
 # Tech Stack
 
 ### Languages
@@ -39,21 +55,4 @@ Feel free to contact me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-
 
 ### DevOps
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-### Personal Projects
-| Personal Projects | Description | Tech Stack |
-|---------------------------------------------------------------|---------------------------|-----------------------------------------------------|
-|[Chat_App](https://fullstack-chat-app-1nw2.onrender.com/login) |Real-time chat application |Node.JS, Express, React, Mongoose, Zustand, Socket.io, DaisyUI|
-|[E-commerce](https://github.com/Louistwt/E-commerce_practice) |E-commerce site with Stripe payment, coupon system and refresh/access token |Node.JS, Express, React, Mongoose, Zustand, Redis, Stripe |
-|[OnlyRants] |For homeowners to express their dissatisfaction with construction companies |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde |
-
----
-
-### Makers Group Projects
-| Makers Projects | Contribution | Tech Stack |
-|-------------------------------------------------------------------|--------------------------------------------------------------------|-----------------------------------------------------|
-|[Galaxy_Gym](https://github.com/aysinakpinar/team_project_galaxy) |Backend structure, app.py, test configuration, initial database layout and Threads like forum feature |Python, Flask, SQLAlchemy, WTForms, Bootstrap |
-
 
