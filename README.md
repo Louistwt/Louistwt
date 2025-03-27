@@ -10,7 +10,7 @@ Feel free to contact me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-
 |---------------------------------------------------------------|---------------------------|-----------------------------------------------------|
 |[Chat_App](https://fullstack-chat-app-1nw2.onrender.com/login) |Real-time chat application |Node.JS, Express, React, Mongoose, Zustand, Socket.io, DaisyUI|
 |[E-commerce](https://github.com/Louistwt/E-commerce_practice) |E-commerce site with Stripe payment, coupon system and refresh/access token |Node.JS, Express, React, Mongoose, Zustand, Redis, Stripe |
-|[OnlyRants](https://github.com/Louistwt/OnlyRant) |For homeowners to express their dissatisfaction with construction companies |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde |
+|[OnlyFans](https://github.com/Louistwt/OnlyRant) |An OnlyFans clone for educational purposes |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde |
 
 ---
 
