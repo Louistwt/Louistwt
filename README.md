@@ -8,7 +8,7 @@ Feel free to contact me via [![LinkedIn](https://img.shields.io/badge/-LinkedIn-
 ### Personal Projects
 | Personal Projects | Description | Tech Stack |
 |---------------------------------------------------------------|---------------------------|-----------------------------------------------------|
-|[Chat_App](https://fullstack-chat-app-1nw2.onrender.com/login) |Real-time chat application |Node.JS, Express, React, Mongoose, Zustand, Socket.io, DaisyUI|
+|[Chat_App](https://github.com/Louistwt/Chat_App_practice) |Real-time chat application |Node.JS, Express, React, Mongoose, Zustand, Socket.io, DaisyUI|
 |[E-commerce](https://github.com/Louistwt/E-commerce_practice) |E-commerce site with Stripe payment, coupon system and refresh/access token |Node.JS, Express, React, Mongoose, Zustand, Redis, Stripe |
 |[OnlyRants](https://github.com/Louistwt/OnlyRant) |A subscriber only site for homeowners |TypeScript, Next.JS, Prisma, PostgreSQL, Stripe, Kinde |
 
